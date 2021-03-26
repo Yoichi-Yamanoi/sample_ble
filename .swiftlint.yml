@@ -1,0 +1,14 @@
+disabled_rules:
+  - line_length
+opt_in_rules:
+  - empty_count
+included:
+  - BLEAccelerator
+excluded:
+  - Pods
+
+force_cast: warning
+variable_name:
+  min_length: 1 
+
+
